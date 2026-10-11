@@ -1,8 +1,9 @@
 # Employee-Management-System
 Employee Management System using Python
-
+-------------------------------------------
 Employee Management System
-About
+-------------------------------------------
+About:
 A simple Employee Management System developed using Python.
 Features
 - Add Employee
